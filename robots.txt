@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eisaiceil.sparko.cz/sitemap.xml
